@@ -12,7 +12,7 @@ h1 {
   }
 
 p{
-    border: 1px solid rgb(44, 44, 44);
+    border: 1px solid black; /*warned against using anything other than 1px, the mockups looked better */
     width:30%;
     text-align: center;
     font-size: 1.25em;
@@ -25,13 +25,13 @@ p{
   section{
 
     background-color: gray;
-    border: 1px solid rgb(44, 44, 44);
+    border: 1px solid black;
     margin-left: 12px;
     margin-right: 12px;
     margin-top: 24px;
     padding-left: 12px;
     height: 120px;
-    overflow:auto; 
+    overflow:hidden; /*this is the way it is in the example. Can use auto too but wanted to mimic the example */  
   
   }
 
