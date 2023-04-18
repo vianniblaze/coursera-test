@@ -32,6 +32,7 @@ p{
     padding-left: 12px;
     height: 120px;
     overflow:hidden; /*this is the way it is in the example. Can use auto too but wanted to mimic the example */  
+    /*also menus are pretty straightforward so it makes sense */
   
   }
 
