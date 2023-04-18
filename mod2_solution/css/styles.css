@@ -23,10 +23,19 @@ p{
 }  
   
   section{
+
     background-color: gray;
     border: 1px solid rgb(44, 44, 44);
-    margin: 18px;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 24px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    height: 120px;
+    overflow:hidden; /*set this to auto but didn't like the scrollbar lol */
+  
   }
+
 
   .title1{
     background-color: beige;
@@ -46,7 +55,7 @@ p{
     .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
       float: left;
       margin: auto;
-      
+    
     }
     .col-lg-1 {
       width: 8.33%;
