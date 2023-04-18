@@ -29,10 +29,9 @@ p{
     margin-left: 12px;
     margin-right: 12px;
     margin-top: 24px;
-    padding-bottom: 12px;
     padding-left: 12px;
     height: 120px;
-    overflow:hidden; /*set this to auto but didn't like the scrollbar lol */
+    overflow:auto; 
   
   }
 
