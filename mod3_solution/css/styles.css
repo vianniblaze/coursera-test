@@ -4,7 +4,8 @@
 }
 
 h1{
-    padding-bottom: 25px;
+    padding-bottom: 30px;
+    padding-top: 25px;
 }
 h2{
     color: black;
@@ -12,6 +13,7 @@ h2{
 
 #nav{
    background-color: gray;
+   margin: 0;
 }
 
 #brandname{
