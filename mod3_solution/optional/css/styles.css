@@ -37,9 +37,18 @@ h2{
     background-color: brown;
 }
 
-#chicken-wall{
-    background-color: gray;
-    margin: 10px;
-    font-weight: 500;
-    font-weight: 400;
+a{
+    color: darkorange;
 }
+
+section{
+
+    background-color: gray;
+    border: 1px solid black;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-top: 24px;
+    padding-left: 12px; /*this is the way it is in the example. Can use auto too but wanted to mimic the example */  
+    /*also menus are pretty straightforward so it makes sense */
+  
+  }
