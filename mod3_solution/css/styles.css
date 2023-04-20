@@ -6,6 +6,9 @@
 h1{
     padding-bottom: 25px;
 }
+h2{
+    color: black;
+}
 
 #nav{
    background-color: gray;
